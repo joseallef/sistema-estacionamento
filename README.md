@@ -31,3 +31,6 @@
  
  - create a new Schema MySQL or PostgresSQL
  - configure your Connetion.php file with src/db
+ 
+ ## License
+ - MIT
