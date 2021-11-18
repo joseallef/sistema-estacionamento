@@ -1,0 +1,39 @@
+[29-Oct-2020 01:34:54 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 01:35:33 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 01:36:05 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 01:36:06 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 15:41:08 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 15:41:33 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 15:41:49 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 15:59:58 UTC] PHP Notice:  Use of undefined constant certificado - assumed 'certificado' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[29-Oct-2020 15:59:58 UTC] PHP Notice:  Use of undefined constant crt - assumed 'crt' in C:\wamp64\www\sis-estacionamento\teste1.php on line 32
+[30-Oct-2020 00:57:23 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:57:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:57:38 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:57:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:58:05 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:58:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:58:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:58:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:59:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:59:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 00:59:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:10:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:10:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:24:34 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:24:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:01 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:02 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:04 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:25:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:27:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:27:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:27:04 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:27:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:46:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:46:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:55:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[30-Oct-2020 01:55:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2
+[01-Nov-2020 14:29:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in C:\wamp64\www\sis-estacionamento\index.php on line 2

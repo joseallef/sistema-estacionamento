@@ -1,0 +1,27 @@
+{
+    "name": "allef/sis-estacionamento",
+    "description": "Sistema para estacionamento",
+    "authors": [
+        {
+            "name": "joseallef",
+            "email": "46696111+joseallef@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5",
+        "php": "^7.4.24"
+    },
+        "autoload": {
+            "psr-4": {
+                "AppC\\": "app/controllers",
+                "AppM\\": "app/model",
+                "AppV\\": "app/view",
+                "Src\\": "src/",
+                "SrcD\\": "src/db",
+                "Api\\": "app/api"
+            },
+            "files": [
+                "app/api/config/Configuration.php"
+            ]
+        }
+}

@@ -1,0 +1,43 @@
+RewriteEngine On
+
+Options -Indexes
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule ^login/?$ app/controllers/Login.php [NC,L]
+RewriteRule ^logout/?$ app/controllers/Logout.php [NC,L]
+RewriteRule ^opcoes-clientes/?$ app/view/linkClientes.php [NC,L]
+RewriteRule ^clientes/?$ app/view/tableClientes.php [NC,L]
+RewriteRule ^clientes-avulso/?$ app/view/table_clientes_avulso.php [NC,L]
+RewriteRule ^veiculos/?$ app/view/tableVeiculos.php [NC,L]
+RewriteRule ^novo-cliente/?$ app/view/formClientes.php [NC,L]
+RewriteRule ^novo-cliente-avulso/?$ app/view/form_clientes_avulso.php [NC,L]
+RewriteRule ^cliente-avulso/?$ app/controllers/ClienteAvulso.php [NC,L]
+RewriteRule ^formulario-veiculo/?$ app/view/formVeiculo.php [NC,L]
+RewriteRule ^alterar-usuario/?$ app/view/form-alter.php [NC,L]
+RewriteRule ^alter-usuario/?$ app/controllers/Usuario.php [NC,L]
+RewriteRule ^alterar-veiculo/?$ app/view/formAlterVeiculo.php [NC,L]
+RewriteRule ^update-veiculo/?$ app/controllers/Veiculo.php [NC,L]
+RewriteRule ^alterar-cliente/?$ app/view/formAlterCliente.php [NC,L]
+RewriteRule ^contrato/?$ app/view/gerar_contrato.php [NC,L]
+RewriteRule ^consultar-financeiro/?$ app/view/consultar_financeiro.php [NC,L]
+RewriteRule ^cadastro-financeiro/?$ app/view/form_financeiro.php [NC,L]
+RewriteRule ^mais-dados-clientes/?$ app/view/tableClientesMore.php [NC,L]
+RewriteRule ^dados-gerais/?$ app/view/tableClientesMore.php [NC,L]
+RewriteRule ^mais-dados-ex-clientes/?$ app/view/table_ex_clientes.php [NC,L]
+RewriteRule ^vagas/?$ app/view/vagas.php [NC,L]
+RewriteRule ^conteudo-avancado/?$ app/view/avancado.php [NC,L]
+RewriteRule ^financeiro/?$ app/view/opcao_financeiro.php [NC,L]
+RewriteRule ^gerar-boleto/?$ app/view/gerar_boleto.php [NC,L]
+RewriteRule ^controller-boleto/?$ app/controllers/Financeiro.php [NC,L]
+RewriteRule ^cadastrar-Veiculo/?$ app/controllers/Veiculo.php [NC,L]
+RewriteRule ^cadastrar-financeiro/?$ app/controllers/Financeiro.php [NC,L]
+RewriteRule ^incluir-alter/?$ app/controllers/Cliente.php [NC,L]
+RewriteRule ^alter-cliente/?$ app/controllers/Cliente.php [NC,L]
+RewriteRule ^cliente-avulso/?$ app/controllers/ClienteAvulso.php/alterar [NC,L]
+RewriteRule ^ex-clientes/?$ app/controllers/ExCliente.php [NC,L]
+RewriteRule ^alterar-financeiro/?$ app/view/form_alter_financeiro.php [NC,L]
+RewriteRule ^resulmo-financeiro/?$ app/view/resulmo_financeiro.php [NC,L]
+RewriteRule ^mais-detahes-clientes/?$ app/view/tableMaisDetalhesClientes.php [NC,L]
+RewriteRule ^mais-detahes-veiculos/?$ app/view/tableMoreVehicleDetails.php [NC,L]

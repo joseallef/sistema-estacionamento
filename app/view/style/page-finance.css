@@ -1,0 +1,254 @@
+.container-customized {
+  width: 100vw;
+  margin: 150px 0px 0px 1px;
+  border: 1px solid #e3e6eb;
+  background: #ffffff;
+}
+
+.option-finance {
+  border: 1px solid hsl(210, 23%, 95%);
+  margin: 3px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.container-customized .option-finance select {
+  position: static;
+  width: 95%;
+  height: 3rem;
+  margin-bottom: 1rem;
+  background: rgba(255, 255, 255, 0.89);
+  box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: none;
+}
+
+.container-customized .option-finance input[type="date"] {
+  width: 95%;
+  height: 3rem;
+  margin-bottom: 1rem;
+  background: rgba(255, 255, 255, 0.89);
+  box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: none;
+}
+
+.container-customized .select-block {
+  text-align: center;
+}
+
+.container-customized .select-block label {
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.container-customized .select-block a {
+  border: 2px solid #2a4e80;
+  border-radius: 10px;
+}
+.container-customized .select-block a:hover {
+  border: 2px solid #7badd8;
+  cursor: pointer;
+}
+label:hover {
+  cursor: pointer;
+}
+
+.container-customized main input {
+  border-radius: 5px;
+  width: 92%;
+  height: 40px;
+  margin: 10px;
+}
+
+.container-customized .option-finance .button {
+  position: relative;
+  width: 95%;
+  height: 2.8rem;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+}
+
+.container-customized main #input-search {
+  padding: 3px;
+  text-align: unset;
+}
+
+.container-customized main .select-pagina {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+}
+.container-customized main .select-pagina select {
+  left: 0px;
+  min-width: 50px;
+}
+
+.container-customized .select-block img {
+  height: 28px;
+  width: 33px;
+}
+
+main {
+  display: flex;
+}
+
+th {
+  position: sticky;
+  top: 0;
+}
+
+.scroll {
+  overflow: scroll;
+  max-height: 500px;
+}
+.scroll-grafic {
+  overflow: scroll;
+  max-height: 500px;
+}
+
+@media (min-width: 700px) {
+  .container-customized {
+    margin: 150px 0px 0px 1px;
+    border: 1px solid #e3e6eb;
+    background: #ffffff;
+    overflow: hidden;
+    top: 10px;
+  }
+
+  .option-finance {
+    max-width: 1100px;
+    border: 1px solid hsl(210, 23%, 95%);
+    padding: 10px;
+
+    margin: auto;
+    float: 1 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container-customized .select-block label {
+    margin: 0;
+  }
+
+  #search-finance {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .container-customized .option-finance .select-block {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+
+  .container-customized .option-finance input[type="date"] {
+    width: 80%;
+    height: 3rem;
+    background: rgba(255, 255, 255, 0.89);
+    box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: none;
+  }
+
+  .container-customized .option-finance .button {
+    position: relative;
+    margin-top: -15px;
+    width: 20em;
+    height: 2.8rem;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+  }
+  .container-customized .option-finance .button:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+
+  main {
+    position: relative;
+    margin: auto;
+    max-width: 1100px;
+    top: 1px;
+    margin-bottom: 1rem;
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 5px;
+  }
+
+  th {
+    position: sticky;
+    top: 0;
+  }
+
+  .scroll {
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 500px;
+  }
+
+  .scroll-grafic {
+    overflow: hidden;
+  }
+
+  #create-tag-th .btn-primary {
+    width: 10rem;
+  }
+
+  .container-customized main #input-search {
+    display: flex;
+    justify-content: center;
+    flex-direction: unset;
+    margin: auto;
+  }
+
+  .container-customized .select-block label {
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  main table tbody img {
+    height: 19px;
+    width: 19px;
+  }
+
+  .resulmo_financeiro {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: row;
+  }
+
+  .resulmo_financeiro div {
+    margin: 3px;
+    border-radius: 1em;
+  }
+
+  .resulmo_financeiro .scroll-grafic #resulmo_financeiro {
+    display: flex;
+    justify-content: center;
+    box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+  }
+  .resulmo_financeiro .scroll-grafic #grafic_column {
+    display: flex;
+    justify-content: center;
+    box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+  }
+
+  .container-customized .option-finance .select-block .button {
+    margin-top: 2rem;
+    width: 15em;
+    height: 2.8rem;
+    box-shadow: 1px 0px 4px 1px rgba(0, 0, 0, 0.25);
+  }
+}
