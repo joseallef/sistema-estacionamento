@@ -7,7 +7,9 @@
 
 ## It is a web application designed by me, where clients, vehicles and Api's consultation with the inter bank are made.
 
-### Este projeto tem como intuito a geração e consultas de boletos, manter os registros de clientes e veiculos
+### This project aims to generate and consult bills, maintain customer and vehicle records
+
+<!-- ### Este projeto tem como intuito a geração e consultas de boletos, manter os registros de clientes e veiculos -->
 
 ## Tecnologies Used:
 <table>
