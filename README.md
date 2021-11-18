@@ -24,3 +24,8 @@
      <th>2.1.5</th>
    </tr>
 <table>
+ 
+ ## How to rum the application
+ 
+ - create a new Schema MySQL or PostgresSQL
+ - configure your Connetion.php file with src/db
