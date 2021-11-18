@@ -27,6 +27,11 @@
    </tr>
 <table>
  
+ **Clone the application**
+ ```bash 
+    git clone https://github.com/joseallef/sistema-estacionamento.git
+ ```
+ 
  ## How to rum the application
  
  - create a new Schema MySQL or PostgresSQL
