@@ -14,16 +14,20 @@
 ## Tecnologies Used:
 <table>
    <tr>
+     <th>HTML</th>
+     <th>CSS</th>
      <th>PHP</th>
      <th>MySQL</th>
      <th>PostgresSQL</th>
      <th>Composer</th>
    </tr>
     <tr>
-     <th>^7</th>
-     <th>5.7.31</th>
-     <th>13.4</th>
-     <th>2.1.5</th>
+     <td>5</td>
+     <td>3</td>
+     <td>^7</td>
+     <td>5.7.31</td>
+     <td>13.4</td>
+     <td>2.1.5</td>
    </tr>
 <table>
  
@@ -32,7 +36,7 @@
     git clone https://github.com/joseallef/sistema-estacionamento.git
  ```
  
- ## How to rum the application
+ ## How to run the application
  
  - create a new Schema MySQL or PostgresSQL
  - configure your Connetion.php file with src/db
